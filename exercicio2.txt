@@ -1,0 +1,35 @@
+Crie um programa que exiba um menu com as seguintes opcoes:
+
+ 1. Adicionar novo produto
+ 2. Visualizar produtos
+ 3. Sair
+
+Digite uma opcão:
+
+# Se o usuário escolher adicionar novo produto (ou seja, número 1),
+# pergunte ao usuário:
+  
+Qual é o nome do produto a ser adicionado? teclado
+
+# Depois o usuário deverá ver o menu novamente
+
+ 1. Adicionar novo produto
+ 2. Visualizar produtos
+ 3. Sair
+
+Digite uma opcão: 2
+
+# Se o usuário escolher visualizar os produtos, então o programa deve
+# mostrar a lista de produtos já inseridos
+
+ * teclado
+
+# Depois o usuário deverá ver o menu novamente
+
+ 1. Adicionar novo produto
+ 2. Visualizar produtos
+ 3. Sair
+
+Digite uma opcão: 2
+
+# Se o usuário escolher sair, o programa deve ser encerrado
