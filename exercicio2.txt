@@ -30,6 +30,32 @@ Digite uma opcão: 2
  2. Visualizar produtos
  3. Sair
 
+Digite uma opcão: 1
+
+# Se um novo produto for adicionado:
+
+Qual é o nome do produto a ser adicionado? mouse
+
+# Depois o usuário deverá ver o menu novamente
+
+ 1. Adicionar novo produto
+ 2. Visualizar produtos
+ 3. Sair
+
 Digite uma opcão: 2
+
+# Se o usuário visualizar os produtos cadastrados novamente, então os
+# dois produtos já inseridos devem ser exibidos
+
+ * teclado
+ * mouse
+
+# Depois o usuário deverá ver o menu novamente
+
+ 1. Adicionar novo produto
+ 2. Visualizar produtos
+ 3. Sair
+
+Digite uma opcão: 3
 
 # Se o usuário escolher sair, o programa deve ser encerrado
